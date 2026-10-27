@@ -1,0 +1,14 @@
+CACHE MANIFEST
+# KONTROL PS4 9.00 UI cache
+# Rev 2026-10-27-01
+
+CACHE:
+./
+./index.html
+./bundle.js
+./payload.bin
+./kontrol-consoles.png
+./cache.html
+
+NETWORK:
+*
